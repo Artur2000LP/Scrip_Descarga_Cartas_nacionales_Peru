@@ -9,7 +9,7 @@ Conjunto de scripts en Python para automatizar la descarga masiva, análisis y p
 ## 🚀 Características
 
 - **📥 Descarga masiva** de cartas en formato PDF y JPG
-- **🔍 Análisis automático** de cartas existentes y faltantes  
+- **🔍 Análisis automático** de cartas existentes y faltantes
 - **🗂️ Unificación** de áreas protegidas del Perú
 - **📊 Conversión** a formato GeoPackage
 - **🌐 Visualización web** con mapas interactivos
@@ -17,16 +17,16 @@ Conjunto de scripts en Python para automatizar la descarga masiva, análisis y p
 
 ## 🛠️ Scripts Principales
 
-| Script | Función |
-|--------|---------|
-| `descarga_masiva.py` | Descarga masiva de cartas nacionales |
-| `descargar_cartas_pdf_jpg.py` | Descarga específica PDF/JPG |
-| `analizar_cartas.py` | Análisis de cartas descargadas |
-| `buscar_faltantes.py` | Identifica cartas faltantes |
-| `unificar_cartas_nacionales.py` | Unifica cartas por zona |
-| `unificar_areas_protegidas_peru.py` | Procesa áreas protegidas |
-| `convertir_a_geopackage.py` | Conversión a formato GIS |
-| `extraer_cartas.py` | Extracción de datos específicos |
+| Script                                | Función                             |
+| ------------------------------------- | ------------------------------------ |
+| `descarga_masiva.py`                | Descarga masiva de cartas nacionales |
+| `descargar_cartas_pdf_jpg.py`       | Descarga específica PDF/JPG         |
+| `analizar_cartas.py`                | Análisis de cartas descargadas      |
+| `buscar_faltantes.py`               | Identifica cartas faltantes          |
+| `unificar_cartas_nacionales.py`     | Unifica cartas por zona              |
+| `unificar_areas_protegidas_peru.py` | Procesa áreas protegidas            |
+| `convertir_a_geopackage.py`         | Conversión a formato GIS            |
+| `extraer_cartas.py`                 | Extracción de datos específicos    |
 
 ## 📦 Instalación
 
@@ -119,9 +119,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ### 📞 Contacto
 
-**Desarrollador**: Tu Nombre  
-**Email**: tu-email@ejemplo.com  
-**GitHub**: [@tu-usuario](https://github.com/tu-usuario)
+**Desarrollador**: Artur
+**Email**: soyarturlp@gmail.com
+**GitHub**: https://github.com/Artur2000LP
 
 ---
 
